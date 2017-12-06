@@ -40,4 +40,5 @@ En la carpeta Ruby ejecutar el comando
 
 `ruby impresorLCD.rb`
 
-![img](https://imgur.com/c2989dG)
+
+![img](https://i.imgur.com/c2989dG.png)
